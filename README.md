@@ -1,2 +1,5 @@
-# Reacrjs---app-listas
-Projeto da Alura / App de listas feito com react
+# app-lista
+Projeto da Alura / Projeto react da Alura
+
+* para usar o app entre na pasta do projeto e rode o comando npm i
+* depois rode o comando npm start
